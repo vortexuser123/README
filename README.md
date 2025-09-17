@@ -18,8 +18,7 @@
 
 ---
 
-## 📂 Portfolio Sections
-🔹 **[📖 eBooks](https://vortexuser123.github.io/ebook.html/)** – Explore my published works  
+## 📂 Portfolio Sections  
 🔹 **Projects:**  
    - 🎮 *Horror Adventure Game* (Indian vibe, ultra-realistic graphics)  
    - 🤖 *CybrBuddy* – AI-powered futuristic website assistant  
@@ -47,7 +46,7 @@
 <p align="center">
   <a href="https://instagram.com/__ani_uniruiner__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/animesh-singha-007b4b364"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sighaanimesh010@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
