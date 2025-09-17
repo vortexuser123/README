@@ -30,7 +30,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,unity,godot,linux,git,github,php,cpp,c#,batch script,assembly" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,unity,godot,linux,git,github,php,cpp,c#,typescript, kotlin" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vortexuser123&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Animesh&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vortexuser123&theme=tokyonight" height="160"/>
 </p>
 
 ---
