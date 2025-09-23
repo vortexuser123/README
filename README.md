@@ -10,11 +10,11 @@
 ---
 
 ## 🌟 About Me
-- 👨‍💻 Founder & CEO of **BitForge** | Co-founder of **FS Games**
+- 👨‍💻 Founder & CEO of **FS Production**
 - 🎮 Game Developer (Unity, Godot) | Content Creator
 - 🤖 Passionate about **AI assistants, hacking, and futuristic inventions**
 - 📚 Author of *The Endless Road* | *The Road to the mystery*
-- 🌱 Currently learning **Advanced Python, Networking, and Security**
+- 🌱 Currently learning **Advanced data analysis, Networking, and Security**
 
 ---
 
