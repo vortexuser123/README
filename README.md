@@ -10,8 +10,8 @@
 ---
 
 ## 🌟 About Me
-- 👨‍💻 Founder & CEO of **FS Production**
-- 🎮 Game Developer (Unity, Godot) | Content Creator
+- 👨‍💻 Founder & CEO of **FS Games**
+- 🛸 Developer (web_app_game) | Ethical Hacker
 - 🤖 Passionate about **AI assistants, hacking, and futuristic inventions**
 - 📚 Author of *The Endless Road* | *The Road to the mystery*
 - 🌱 Currently learning **Advanced data analysis, Networking, and Security**
